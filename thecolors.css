@@ -41,6 +41,8 @@
     display: inline-block;
     margin-top: 10px;
     margin-left: 10px;
+    font: italic;
+    color: black
    }
    #advertisement{
     min-height: 120px;
