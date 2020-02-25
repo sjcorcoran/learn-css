@@ -1,0 +1,90 @@
+*{
+
+}
+#Wrap{
+    
+
+}
+header{
+    background-color: purple;
+    text-align: center;
+    color: white;
+    display: flexbox
+
+}
+main{
+    background-color: palevioletred
+
+}
+#profile{
+    display: inline-flexbox;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%
+
+}
+nav img{
+    border-radius: 50px;
+    width:50px;
+    list-style-type: none;
+    display:flex;
+    align-content: center;
+    padding: 5px;
+
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+#profile img{
+    width: 500px;
+    display: inline-block;
+  
+}
+
+#boxtrio img{
+    width:200px;
+    display:flex; 
+}
+
+#boxtrio{
+    display: flex;
+    justify-content: center;
+    
+
+}
+#apps img,ol{
+    width:50px;
+    list-style-type: none;
+    display:flex;
+    align-content: center;
+    padding: 5px;
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+#apps2 img,ol{
+    width:50px;
+    list-style-type: none;
+    display:flex;
+    align-content: center;
+    padding: 5px;
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+
+}
+#apps3 img,ol{
+    width:50px;
+    list-style-type: none;
+    display:flex;
+    align-content: center;
+    padding: 5px;
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
